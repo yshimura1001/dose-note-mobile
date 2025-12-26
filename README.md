@@ -1,1 +1,1 @@
-* This repo is dose-note app for mobile.
+# This repo is dose-note app for mobile.
